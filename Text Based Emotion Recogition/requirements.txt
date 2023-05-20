@@ -1,9 +1,0 @@
-tensorflow
-keras
-pandas
-numpy
-nltk
-re
-sklearn
-streamlit
-pickle
