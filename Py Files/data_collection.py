@@ -4,7 +4,7 @@ import numpy as np
 import cv2
 import mediapipe as mp
 from itertools import product
-from my_functions import *
+from Process_Function import *
 import keyboard
 
 actions = np.array(['a', 'b'])
