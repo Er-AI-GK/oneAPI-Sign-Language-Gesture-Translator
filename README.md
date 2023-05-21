@@ -1,10 +1,15 @@
 <h2 align=center>Intel oneAPI Sign Language Gesture Translator using MediaPipe</h2>
 
-![Untitled](https://user-images.githubusercontent.com/106463633/230747827-b3db1985-59c8-4792-9af7-f8eca83a496f.png)
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/106463633/230747827-b3db1985-59c8-4792-9af7-f8eca83a496f.png alt="Image Description">
+</p>
 
    <p align=center> In this project, we will develop a Sign Gesture Language Translator using MediaPipe and the Intel OneAPI Platform. The translator will be able to recognize sign gestures captured from a video stream and convert them into corresponding text or spoken language.</p>
+   
+<p align="center">
+  <img src=https://github.com/Er-AI-GK/oneAPI-Sign-Language-Translator/assets/106463633/17e5acfc-a037-446c-b990-98634c6c2fca alt="Image Description">
+</p>
 
-![signdemo](https://github.com/Er-AI-GK/oneAPI-Sign-Language-Translator/assets/106463633/17e5acfc-a037-446c-b990-98634c6c2fca)
 
 
 <h2 align=center> Prerequisites</h2>
