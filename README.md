@@ -75,8 +75,10 @@ In this project we used large amount of dataset so normally it's take long time 
 
 I choosed OneAPI DNN it's have optimized library and Python OneAPI kernal. So, it's give acceleration my project and gives high accuracy output. 
 
-![image](https://openbenchmarking.org/logos/pts_onednn.png)
-## oneAPI Deep Neural Network Library (oneDNN)
+<p align="center">
+  <img src=https://openbenchmarking.org/logos/pts_onednn.png alt="Image Description">
+</p>
+<h2 align=center>oneAPI Deep Neural Network Library (oneDNN)</h2>
 oneAPI Deep Neural Network Library (oneDNN) is an open-source cross-platform
 performance library of basic building blocks for deep learning applications.
 oneDNN is part of [oneAPI](https://oneapi.io).
