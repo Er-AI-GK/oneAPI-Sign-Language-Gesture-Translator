@@ -42,7 +42,7 @@ Before getting started, make sure you have the following prerequisites installed
 1. Clone the repository: Clone the project repository from GitHub using the following command:
 
    ```bash
-   !git clone https://github.com/Er-AI-GK/Intel-oneAPI-Speech_Emotion_Recognition_using_NLP_Audio_Text.git
+   !git clone https://github.com/Er-AI-GK/oneAPI-Sign-Language-Gesture-Translator.git
    ```
 
 2. Set up the environment: Open a terminal and navigate to the project directory. Activate the Intel OneAPI environment by running the following command:
