@@ -1,12 +1,81 @@
 ![Untitled](https://user-images.githubusercontent.com/106463633/230747827-b3db1985-59c8-4792-9af7-f8eca83a496f.png)
 
-# Intel oneAPI Speech Emotion Recognition using NLP Audio & Text
+![Image](https://github.com/Er-AI-GK/oneAPI-Sign-Language-Translator/assets/106463633/8761d5bf-1264-43b3-b0bd-075d3fca2f31&width=1200&height=675)
 
-Human-Computer interactions are make it mandatory to get accuracy communications, like both human. If computer identify means we will get clever interaction  
-We might be on the verge of too many screens. It seems like everyday, new versions of common objects are “re-invented” with built-in Wi-Fi and bright touchscreens. A promising antidote to our screen addiction are voice interfaces.
+# Intel oneAPI Sign Language Gesture Translator using MediaPipe
+
+In this project, we will develop a Sign Gesture Language Translator using MediaPipe and the Intel OneAPI Platform. The translator will be able to recognize sign gestures captured from a video stream and convert them into corresponding text or spoken language.
+
+## Prerequisites
+
+Before getting started, make sure you have the following prerequisites installed:
+
+- Python (3.6 or higher)
+- MediaPipe
+- Intel OneAPI Base Toolkit
+
+## Installation
+
+1. Install Python: Visit the Python website (https://www.python.org) and follow the instructions to install the latest version of Python for your operating system.
+
+2. Install MediaPipe: Run the following command in your terminal to install MediaPipe using pip:
+
+   ```bash
+   pip install mediapipe
+   ```
+
+3. Install Intel OneAPI Base Toolkit: Visit the Intel Developer Zone website (https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit.html) and follow the instructions to download and install the Intel OneAPI Base Toolkit for your operating system.
+
+## Usage
+
+1. Clone the repository: Clone the project repository from GitHub using the following command:
+
+   ```bash
+   git clone https://github.com/Er-AI-GK/Intel-oneAPI-Speech_Emotion_Recognition_using_NLP_Audio_Text.git
+   ```
+
+2. Set up the environment: Open a terminal and navigate to the project directory. Activate the Intel OneAPI environment by running the following command:
+
+   ```bash
+   source <path-to-intel-oneapi>/setvars.sh
+   ```
+
+3. Run the translator: Execute the following command in the terminal to start the Sign Gesture Language Translator:
+
+   ```bash
+   SLT Main.ipynb
+   ```
+
+   The translator will launch and begin capturing video from your default camera.
+
+4. Translate sign gestures: Make different sign gestures in front of the camera, and the translator will recognize them and display the corresponding text or spoken language output.
+
+## Contributing
+
+If you want to contribute to this project, please follow these steps:
+
+1. Fork the repository on GitHub.
+2. Create a new branch with a descriptive name for your feature or bug fix.
+3. Implement your changes and make sure the code passes all tests.
+4. Commit your changes and push them to your forked repository.
+5. Submit a pull request to the main repository.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more information.
+
+## Acknowledgments
+
+We would like to thank the developers of MediaPipe and the Intel OneAPI Platform for their excellent tools and resources that made this project possible.
+
+## References
+
+- MediaPipe documentation: https://google.github.io/mediapipe/
+- Intel OneAPI Platform documentation: https://devcloud.intel.com/oneapi/get_started/
 
 
-![Logo](https://image.khaleejtimes.com/?uuid=d09b8b16-f2ac-4e9c-be46-5d8109a86d73&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.87209&x=0&y=0&width=1200&height=675)
+
+
 
 
 # Problem Statement
